@@ -1,0 +1,23 @@
+.footer {
+    background-color: #596e79;
+    color: #f0ece3;
+  }
+  
+  
+  .ft {
+      color: aliceblue;
+      text-align: center;
+      display: inline-block;
+      width: 100%;
+      vertical-align: top;
+  }
+  
+  .ft1 {
+      width: 100%;
+      text-align: center;
+  }
+  
+  .ft2 {
+      padding-left: 0;
+  }
+   

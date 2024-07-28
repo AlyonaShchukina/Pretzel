@@ -1,0 +1,159 @@
+@import "basic.css";
+@import "header.css";
+@import "footer.css";
+body {
+    background-color: #dfd3c3;
+}
+
+
+
+h3 {
+  font-size: 40px;
+  color: #596e79;
+  background-color: #f0ece3;
+  text-align: center;
+  width: 100%;
+  margin-top: 0px;
+  border-radius: 30px;
+}
+
+.img_1 {
+  width: 400px;
+  border-radius: 30px;
+  margin-bottom: -5px;
+}
+
+.p1 {
+  font-size: 20px;
+  margin: 20px;
+  display: inline-block;
+  vertical-align: top;
+  color: #596e79;
+  background-color: #f0ece3;
+  border-radius: 30px;
+  padding: 10px;
+}
+
+.item {
+  margin-bottom: 20px;
+  background-color: #596e7998;
+  padding: 0px;
+}
+.section-border {  border: solid;
+  border-radius: 30px;
+  border-color: #596e79;}
+
+.blanc {
+  height: 70vh;
+  border-radius: 30px;
+  border: solid;
+  border-color: #596e79;
+}
+
+.zz {
+  text-align: center;
+  color: #596e79;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  border-radius: 30px;
+}
+
+
+.gallery135 {
+  display: inline-block;
+  vertical-align: top;
+  width: 600px;
+  margin: 0;
+  border-radius: 30px;
+  padding: 10px;
+  line-height: 140%;
+}
+
+.gallery24 {
+  line-height: 140%;
+    display: inline-block;
+    vertical-align: top;
+    width: 600px;
+    margin: 0;
+    border-radius: 30px;
+    padding: 10px;
+  }
+
+.block {
+  display: inline-block;
+  width: 48%;
+  vertical-align: top;
+}
+
+.header {
+  font-size: 50px;
+  background-color: #f0ece3;
+  list-style-type: none;
+  margin: 0;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+nav {
+    display: inline-block;
+    width: 49%;
+    text-align: right;
+}
+nav li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+
+.dl {
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+    width: 50%;
+    }
+
+.al {
+    font-size: 40px;
+    margin: 20px;
+}
+
+.screensaver {
+    height: 80vh;
+    background-image: url(../img/pr_blanc.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+
+}
+
+.screensaver_text {
+    font-size: 70px;
+    text-align: center;
+    vertical-align: middle;
+    color: #596e79;
+    margin: 0;
+    padding: 100px;
+  }
+
+.pr10 {
+    width: 100%;
+    border-radius: 30px;
+    border: solid #596e79;
+}
+
+.final__btn {
+    vertical-align: middle;
+}
+
+.final__title {
+    display: inline-block;
+    vertical-align: middle;
+    width: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 0px;
+}
+
+.final {
+    margin-bottom: 20px;
+}

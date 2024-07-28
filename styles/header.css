@@ -1,0 +1,11 @@
+.logo {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: left;
+    color: #596e79;
+    background-color: #f0ece3;
+    display: inline-block;
+    width: 49%;
+    margin: 0;
+    padding: 0;
+  }
